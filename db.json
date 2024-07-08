@@ -1,0 +1,16 @@
+{
+    "posts": [
+      { "id": 1, "title": "#Post 1", "body": "Photography", "image": "/images/image.png" },
+      { "id": 2, "title": "#Post 2", "body": "Another Photography", "image": "/images/image1.png" }
+    ],
+ "comments": [
+    { "id": 1, "postId": 1, "body": "Nice View✨" },
+    { "id": 2, "postId": 1, "body": "Well done👏" },
+    { "id": 3, "postId": 2, "body": "Nice one👌" }
+  ],
+  "notifications": [
+    { "id": 1, "message": "New comment on #Post 1" },
+    { "id": 2, "message": "New comment on #Post 2" }
+  ]
+}
+  
